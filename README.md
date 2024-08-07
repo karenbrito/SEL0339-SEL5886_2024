@@ -36,4 +36,4 @@
 
 ### Listas de Exercício
 
- - [Lista de Exercício 1](praticas/)
+ - [Lista de Exercício 1](praticas/Lista_de_Exercicio_1.ipynb)
